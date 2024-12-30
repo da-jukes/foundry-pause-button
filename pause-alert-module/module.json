@@ -1,0 +1,16 @@
+{
+    "name": "pause-alert-module",
+    "title": "Pause Alert Module",
+    "description": "A module that allows players to anonymously pause the game and alert the GM.",
+    "version": "1.0.0",
+    "author": "dajukeboxhero",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "12",
+    "scripts": [
+      "scripts/pause-alert.js"
+    ],
+    "manifest": "module.json",
+    "download": "available upon further testing",
+    "license": "Still in testing phase"
+  }
+  
