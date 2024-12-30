@@ -10,7 +10,7 @@
       "scripts/pause-alert.js"
     ],
     "manifest": "module.json",
-    "download": "available upon further testing",
+    "download": "https://github.com/da-jukes/foundry-pause-button/tree/b053e6c485665f70057f450357f1134615336040/pause-alert-module",
     "license": "Still in testing phase"
   }
   
