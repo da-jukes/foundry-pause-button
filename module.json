@@ -1,0 +1,15 @@
+{
+  "name": "pause-alert-module",
+  "title": "Pause Alert Module",
+  "description": "A module that allows players to anonymously pause the game and alert the GM.",
+  "version": "1.0.0",
+  "author": "dajukeboxhero",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "12",
+  "scripts": [
+    "scripts/pause-alert.js"
+  ],
+  "manifest": "module.json",
+  "download": "https://github.com/da-jukes/foundry-pause-button/tree/b053e6c485665f70057f450357f1134615336040/pause-alert-module",
+  "license": "Still in testing phase"
+}
