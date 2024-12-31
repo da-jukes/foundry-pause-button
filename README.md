@@ -1,1 +1,0 @@
-This is still in early development and testing. Bugs or issues should be reporting to the auther when identified. 
