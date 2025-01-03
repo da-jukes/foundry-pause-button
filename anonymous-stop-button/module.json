@@ -1,0 +1,18 @@
+{
+  "id": "anonymous-stop-button",
+  "title": "Anonymous Stop Button",
+  "version": "1.0.2",
+  "author": "dajukeboxhero",
+  "description": "Adds an anonymous stop button for players to pause the game.",
+  "manifestVersion": 2,
+  "minimumCoreVersion": "10.0.0",
+  "scripts": ["scripts/module.js"],
+  "url": "https://github.com/da-jukes/foundry-pause-button",
+  "download": "https://github.com/user-attachments/files/18296217/pause-alert-module.zip",
+    "relationships.requires": [
+    {
+      "name": "socketlib",
+      "minimum": "1.0.0"
+    }
+  ]
+}
