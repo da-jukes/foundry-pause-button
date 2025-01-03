@@ -1,5 +1,5 @@
 {
-  "name": "anonymous-stop-button",
+  "id": "anonymous-stop-button",
   "title": "Anonymous Stop Button",
   "version": "1.0.2",
   "author": "Your Name",
@@ -9,7 +9,7 @@
   "scripts": ["scripts/module.js"],
   "url": "https://github.com/da-jukes/foundry-pause-button",
   "download": "https://github.com/user-attachments/files/18296217/pause-alert-module.zip",
-    "dependencies": [
+    "relationships.requires": [
     {
       "name": "socketlib",
       "minimum": "1.0.0"
