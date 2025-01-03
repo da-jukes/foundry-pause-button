@@ -9,6 +9,8 @@
   "scripts": [
     "scripts/module.js"
   ],
+  "url": "https://github.com/da-jukes/foundry-pause-button/" 
+  "download": "https://github.com/user-attachments/files/18296105/pause-alert-module.zip"
   "dependencies": [
     {
       "name": "socketlib",
