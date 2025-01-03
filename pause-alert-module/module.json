@@ -2,7 +2,7 @@
   "id": "anonymous-stop-button",
   "title": "Anonymous Stop Button",
   "version": "1.0.2",
-  "author": "Your Name",
+  "author": "dajukeboxhero",
   "description": "Adds an anonymous stop button for players to pause the game.",
   "manifestVersion": 2,
   "minimumCoreVersion": "10.0.0",
