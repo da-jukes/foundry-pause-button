@@ -16,7 +16,7 @@
   "styles": ["styles/stop-button.css"], 
   "templates": ["templates/stop-button.html"], 
   "url": "https://github.com/da-jukes/foundry-pause-button",
-  "download": "https://github.com/user-attachments/files/18296217/pause-alert-module.zip",
+  "download": "https://github.com/user-attachments/files/18305437/anonymous-stop-button.zip",
   "relationships": {
       "requires": [
       {
